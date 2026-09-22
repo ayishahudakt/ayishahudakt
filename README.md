@@ -2,8 +2,7 @@
 
 ### 🎓 MCA Graduate | 💻 Aspiring Software Developer
 
-I'm a recent MCA graduate with practical experience in Python, Django,
-REST APIs, Flutter, and database management through project work.
+I'm a recent MCA graduate with practical project experience in Python, Django, REST APIs, Flutter, and database management.
 
 I'm interested in building practical software solutions and continuously
 improving my development and problem-solving skills.
