@@ -70,23 +70,69 @@ improving my development and problem-solving skills.
 
 ## 📌 Featured Repositories
 
-<a href="https://github.com/ayishahudakt/FlameGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayishahudakt&repo=FlameGuard&theme=dark" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/ayishahudakt/org_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayishahudakt&repo=org_project&theme=dark" />
-</a>
+### 🔥 FLAME Guard
 
-<br><br>
+AI-powered forest monitoring system for detecting **forest fires, wildlife, and human intrusion**.
 
-<a href="https://github.com/ayishahudakt/DataScience">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayishahudakt&repo=DataScience&theme=dark" />
-</a>
+**Tech Stack**  
+`Python` `Django` `Flutter` `OpenCV` `MySQL`
 
-<a href="https://github.com/ayishahudakt/Android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayishahudakt&repo=Android&theme=dark" />
-</a>
+<a href="https://github.com/ayishahudakt/FlameGuard">🔗 View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🛍️ UCAN
+
+Inclusive web platform enabling individuals with disabilities to **showcase products and access employment opportunities**.
+
+**Tech Stack**  
+`Python` `Django` `MySQL` `JavaScript`
+
+<a href="https://github.com/ayishahudakt/org_project">🔗 View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Android Application
+
+Java-based Android development project demonstrating **mobile application development**.
+
+**Tech Stack**  
+`Java` `Android`
+
+<a href="https://github.com/ayishahudakt/Android">🔗 View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+Python-based data science work exploring **data analysis and programming concepts**.
+
+**Tech Stack**  
+`Python`
+
+<a href="https://github.com/ayishahudakt/DataScience">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Explore my repositories to discover the projects I've built and the technologies I've worked with.</i>
+</p>
 
 ## 🏆 Achievements
 
